@@ -4,7 +4,7 @@ import time
 class Loona:
     def __init__(self):
         self.nome = "Loona"
-        self.mestre = "DESGRAÇADO"  # Pode mudar aqui
+        self.mestre = "nome"  # Pode mudar aqui
 
     def saudacao(self):
         print(f"\n{'='*70}")
